@@ -1,2 +1,5 @@
-# mate-zshrc
-My .zshrc
+# Mate .zshrc
+
+```
+PS1="%n🧉:%1~$ %"
+```
